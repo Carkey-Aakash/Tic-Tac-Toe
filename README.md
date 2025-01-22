@@ -1,1 +1,1 @@
-# Tic-Tac-Toe
+<p> It's a simple tic-toe-toe games which can be played between only two players.</p>
